@@ -1,0 +1,1 @@
+Projekt zawiera kompletny pipeline uczenia maszynowego do prognozowania kursów walut EUR względem pięciu głównych walut (USD, GBP, JPY, CHF, CNY) na bazie rzeczywistych danych z Europejskiego Banku Centralnego (ECB). Pipeline obejmuje przygotowanie danych, trenowanie 6 różnych algorytmów ML, tuning hiperparametrów oraz wizualizację wyników.
